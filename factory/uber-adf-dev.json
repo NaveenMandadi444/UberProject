@@ -1,0 +1,9 @@
+{
+	"name": "uber-adf-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcff3a64-0a60-4465-a8c6-02667f070c29",
+		"tenantId": "766f210f-8be1-4099-a108-20a6f775c796"
+	}
+}
